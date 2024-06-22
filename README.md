@@ -1,2 +1,1 @@
-# Wiki
-DesignSphere Documentation
+# DesignSphere Wiki
